@@ -10,7 +10,7 @@ Unlike other AI models, such as WormGPT, EvilGPT which rely on outdated GPT-J mo
 
 # What Makes Xanthorox Better Than Other AIs?
 
-1. Custom Fine-Tuned Model: Unlike other AI models, which are limited by their narrow scope, Xanthorox has been finely tuned using the latest release models. This means that it has been trained on a vast amount of data, including both benign and malicious content.
+1. **Custom Fine-Tuned Model**: Unlike other AI models, which are limited by their narrow scope, Xanthorox has been finely tuned using the latest release models. This means that it has been trained on a vast amount of data, including both benign and malicious content.
 
 2. Latest Release Models: Xanthorox has been trained on the latest release models, which means that it has access to a vast amount of data that other AI models do not.
 
